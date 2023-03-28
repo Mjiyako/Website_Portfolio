@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;800&family=Roboto+Slab:wght@300;400;700&family=Roboto:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: board-box;
+}
+
+html{
+    font-size: 10px;
+    font-family : 'Inter' , sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    min-width: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
